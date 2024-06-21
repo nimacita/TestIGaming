@@ -2932,12 +2932,11 @@ MonoBehaviour:
   horrorSoundChance: 7
   horrorSource: {fileID: 1618466500}
   horrorClips:
-  - {fileID: 8300000, guid: c9217c072023c584abf602b13c602d6e, type: 3}
+  - {fileID: 8300000, guid: c0c256721dd2cdf4b8b602fd66ef1704, type: 3}
   - {fileID: 8300000, guid: d93712d362764d94688407b36d0940a2, type: 3}
   - {fileID: 8300000, guid: 5003104a6861c4c48b493acc625b9ceb, type: 3}
   - {fileID: 8300000, guid: 31a9a332c4d96a64c96d90cb1580a6a0, type: 3}
   - {fileID: 8300000, guid: 13d47248d88a8c046ba177d405b7760b, type: 3}
-  - {fileID: 8300000, guid: c0c256721dd2cdf4b8b602fd66ef1704, type: 3}
 --- !u!1 &575283663
 GameObject:
   m_ObjectHideFlags: 0
